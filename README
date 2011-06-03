@@ -1,0 +1,34 @@
+/**
+ *
+ * Java Magazine
+ *
+ * VRaptor 3: porque desenvolvimento web em java deve ser simples! Parte 1
+ *
+ * @author     @wbotelhos
+ * @review     @lucascs
+ *
+ * @blog       http://wbotelhos.com.br
+ * @project    https://github.com/wbotelhos/movy
+ *
+ * @vraptor
+ *   @site     http://vraptor.caelum.com.br
+ *   @source   http://github.com/caelum/vraptor
+ *
+ * @keywords
+ * 
+ * Component;
+ * CRUD;
+ * Dependency Injection;
+ * Eclipse;
+ * Expression Language (EL);
+ * JPA/Hibernate;
+ * JSP;
+ * Log4j;
+ * MVC;
+ * MySQL;
+ * POJO;
+ * REST;
+ * VRaptor 3;
+ * XHTML;
+ * 
+ */
